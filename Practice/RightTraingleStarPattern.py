@@ -12,17 +12,17 @@ while a <= n :      # This loop handles no of rows
     a += 1
 #
 # #Printing from left Max stars to 1
-# n = int(input("Please enter no of rows: "))
-#
-# a = 1
-#
-# while a <= n :      # This loop handles no of rows
-#     b = n
-#     while b >= a :
-#         print("*", end=" ")
-#         b = b - 1
-#     print()
-#     a = a + 1
+n = int(input("Please enter no of rows: "))
+
+a = 1
+
+while a <= n :      # This loop handles no of rows
+    b = n
+    while b >= a :
+        print("*", end=" ")
+        b = b - 1
+    print()
+    a = a + 1
 
 # Printing from Right 1 to max stars
 # This is the example of print simple reversed right angle pyramid pattern

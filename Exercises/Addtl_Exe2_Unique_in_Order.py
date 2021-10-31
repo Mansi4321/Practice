@@ -33,3 +33,15 @@ def unique_in_order1(iterable):
 
 print(unique_in_order("AAAABBBCCDAABBB"))
 print(unique_in_order1([1,2,2,3,3,3,4,4,4,4]))
+
+#3
+def unique_in_order2(a):
+    lst = []
+    for i in a:
+        if len(lst) == 0:
+            lst.append(i)
+        elif i != lst[-1]:
+            lst.append(i)
+    return lst
+
+print(unique_in_order2("AAAABBBCCDAABBB"))

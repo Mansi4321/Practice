@@ -5,11 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f710e2cf-66ea-4b84-94a6-545ef7a04c05" name="Default Changelist" comment="Contains New scripts">
-      <change afterPath="$PROJECT_DIR$/Exercises/1_TakingMultipleInputsUsingNewline.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice_1/power_recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview_questions/3_StockBuySell.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/PracticeProject1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PracticeProject1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/Addtl_Exe1_digitalRoot_SumOfDigits.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/Addtl_Exe1_digitalRoot_SumOfDigits.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/1_TakingMultipleInputsUsingNewline.py" beforeDir="false" afterPath="$PROJECT_DIR$/Interview_questions/1_TakingMultipleInputsUsingNewline.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Addtl_Exe2_Unique_in_Order.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/Addtl_Exe2_Unique_in_Order.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Addtl_Exe3_XandO.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/Addtl_Exe3_XandO.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/RightTraingleStarPattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/RightTraingleStarPattern.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/fibonacci.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/infyIWQue_removalofSpecialChar.py" beforeDir="false" afterPath="$PROJECT_DIR$/Interview_questions/2_removalofSpecialChars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice_1/power_recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/power_recursion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice_1/pract_palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/pract_palindrome.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +45,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Exercises" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Python_Basics" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -51,8 +59,8 @@
       <recent name="C:\Users\Amit\PycharmProjects\PracticeProject1\Exercises" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.fibonacci">
-    <configuration name="Addtl_Exe1_digitalRoot_SumOfDigits" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Addtl_Exe3_XandO">
+    <configuration name="1_TakingMultipleInputsUsingNewline" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PracticeProject1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -64,7 +72,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercises/Addtl_Exe1_digitalRoot_SumOfDigits.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Amit\PycharmProjects\PracticeProject1\Interview_questions\1_TakingMultipleInputsUsingNewline.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Addtl_Exe3_XandO" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PracticeProject1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercises/Addtl_Exe3_XandO.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Pract_TakingInputsUsingNewline" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PracticeProject1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Amit\PycharmProjects\PracticeProject1\Interview_questions\Pract_TakingInputsUsingNewline.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="power_recursion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PracticeProject1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,53 +152,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice_1/power_recursion.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pract_palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PracticeProject1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice_1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice_1/pract_palindrome.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="practice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PracticeProject1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice_1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice_1/practice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercises/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Addtl_Exe3_XandO" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.1_TakingMultipleInputsUsingNewline" />
         <item itemvalue="Python.fibonacci" />
-        <item itemvalue="Python.Addtl_Exe1_digitalRoot_SumOfDigits" />
-        <item itemvalue="Python.practice" />
-        <item itemvalue="Python.pract_palindrome" />
-        <item itemvalue="Python.power_recursion" />
+        <item itemvalue="Python.Pract_TakingInputsUsingNewline" />
       </list>
     </recent_temporary>
   </component>
