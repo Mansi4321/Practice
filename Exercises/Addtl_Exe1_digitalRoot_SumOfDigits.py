@@ -19,17 +19,17 @@ def digital_root(n):
 #     return n if n < 10 else digital_root(sum([int(c) for c in str(n)]))
 
 #####3
-# def digital_root(n):
-#     root = 0
-#     for d in str(n):
-#         root += int(d)
-#     if len(str(root)) > 1:
-#         root = digital_root(root)
-#     return root
+def digital_root1(n):
+    root = 0
+    for d in str(n):
+        root += int(d)
+    if len(str(root)) > 1:
+        root = digital_root1(root)
+    return root
 
 
 x = int(input("Please enter a number to find its digital root:\n"))
-print(digital_root(x))
+print(digital_root1(x))
 
 # print(911//10)      #It gives 91 as answer.
 # print(911/10)         #It gives 91.1 as answer
