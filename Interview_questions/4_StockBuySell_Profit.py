@@ -8,7 +8,7 @@ def maxProfit(price, start, end):
     profit = 0
 
     # The day at which the stock must be bought
-    for i in range(start, end, 1):
+    for i in range(start, end):
 
         # The day at which the stock must be sold
         for j in range(i + 1, end + 1):

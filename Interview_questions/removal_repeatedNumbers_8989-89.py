@@ -43,7 +43,7 @@ def test_remove_from_list(list_test):
             if index == int(len(str(num))/2):
                 break
         c = ''.join(list1)
-        list2.append(c)
+        list2.append(int(c))
 
     return list2
 

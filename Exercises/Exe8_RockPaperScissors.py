@@ -8,15 +8,14 @@ Scissors beats paper
 Paper beats rock
 """
 import getpass
-import stdiomask
 import sys
 
 dict = ["rock", "paper", "scissors"]
 
 print("\nWelcome to 2 player Rock, Paper and Scissors Game\n")
 
-firstPlayer = input("Please enter 1st Player's Name:\n").isalpha()
-secondPlayer = input("\nPlease enter 2nd Player's Name:\n").isalpha()
+firstPlayer = input("Please enter 1st Player's Name:\n")
+secondPlayer = input("\nPlease enter 2nd Player's Name:\n")
 
 
 def playerChoice(arg):
