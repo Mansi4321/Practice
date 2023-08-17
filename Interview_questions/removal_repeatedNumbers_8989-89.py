@@ -32,6 +32,7 @@ list = [8989, 113113, 12341234, 00, 44]
 #
 # print(test_remove(num))
 
+
 def test_remove_from_list(list_test):
     list2 = []
     for num in list_test:
@@ -40,11 +41,12 @@ def test_remove_from_list(list_test):
         for i in str(num):
             list1.append(i)
             index = index + 1
-            if index == int(len(str(num))/2):
+            if index == len(str(num))/2:
                 break
         c = ''.join(list1)
         list2.append(int(c))
 
     return list2
+
 
 print(test_remove_from_list(list))

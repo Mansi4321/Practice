@@ -12,13 +12,13 @@ num, tell that to the user. If not, print a different appropriate message.
 x = int(input("Please enter a Number to check if odd or even: "))
 if (x%2 == 0) and (x%4 == 0):
     print("%s is an even number and a multiple of 4" % (x))
-elif (x%2 == 0):
+elif x % 2 == 0:
     print("{} is an even number".format(x))
 else:
     print("{} is an odd number".format(x))
 
 num, check = [int(x) for x in input("Please enter 2 numbers in order to check if 1st divides evenly into 2nd:\t").split()]
-if num%check == 0 :
+if num%check == 0:
     print("{} is completely divisible by {}".format(num, check))
 else:
     print("%s is not completely divisible by %s"%(num,check))
