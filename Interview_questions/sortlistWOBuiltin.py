@@ -9,7 +9,6 @@ for i in range(len(lis)):
 print(lis[-2])
 
 #Ascending order
-##Descending order
 for i in range(len(lis)):
     for j in range(i+1, len(lis)):
         if lis[i] > lis[j]:
